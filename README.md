@@ -14,7 +14,7 @@ For their primary filesystem, Konami N64 games are known to use a table headered
 
 `"input_file.z64"` `"output_file.z64"`
 
-For the decompressed ROM to function properly, you may need to update the CRC afterwards. In more extreme cases (Castlevania 64), further modifications to the ROM may be necessary. To compress the ROM back, run the k64_compress script instead, again with the same arguments as above.
+For the decompressed ROM to function properly, you may need to update the CRC afterwards. In more extreme cases (such as with Castlevania 64), further modifications to the ROM may be necessary. To compress the ROM back, run the k64_compress script instead, again with the same arguments as above.
 
 ## Credits
 - Fluvian and [@LiquidCat64](https://github.com/LiquidCat64)
