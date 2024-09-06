@@ -2,6 +2,7 @@
 Python scripts for decompressing and recompressing Konami N64 ROMs that use Nisitenma-Ichigo table filesystems.
 
 ## Prerequisites
+For the LZKN64 scripts specifically:
 ```sh
 pip install numpy
 ```
